@@ -5,14 +5,13 @@ Project consists of a simple PowerShell script that walks the user through "zero
 <br />
 
 
-<h2>Languages and Utilities Used</h2>
+<h2>Languages Used</h2>
 
-- <b>PowerShell</b> 
-- <b>Diskpart</b>
+- <b>Python</b> 
 
-<h2>Environments Used </h2>
+<h2>Libraries Used </h2>
 
-- <b>Windows 10</b> (21H2)
+- <b> sjghskg0</b> (21H2)
 
 <h2>Program walk-through:</h2>
 
