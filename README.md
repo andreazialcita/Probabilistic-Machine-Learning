@@ -1,55 +1,32 @@
 <h1>Probabilistic Machine Learning</h1>
 
 <h2>Description</h2>
-Project consists of a simple PowerShell script that walks the user through "zeroing out" (wiping) any drives that are connected to the system. The utility allows you to select the target disk and choose the number of passes that are performed. The PowerShell script will configure a diskpart script file based on the user's selections and then launch Diskpart to perform the disk sanitization.
+This is a compilation of the codes I produced and submitted as part of my junior-year Probabilistic Machine Learning class. Each topic was introduced through a discussion of its underlying mathematical theory, followed by coding lectures and exercises to implement the concepts in practice.
+
 <br />
 
 
-<h2>Languages Used</h2>
+<h2>Concepts Learned</h2>
+- <b>Linear Regression</b> – Least Squares Estimate and Maximum Likelihood Estimate
 
-- <b>Python</b> 
+- <b>Regularization</b> – Ridge and Lasso
+
+- <b>Kernel Functions</b> – For non-linear transformations
+
+- <b>Bayesian Approach to Regression</b> – Incorporating prior distributions
+
+- <b>Logistic Regression</b>
+
+- <b>Gaussian Discriminant Analysis</b>
+
+- <b>Support Vector Machines</b>
+
+<h2>Tools Used</h2>
+- <b>Python</b> – For implementing all models and simulations
 
 <h2>Libraries Used </h2>
 
-- <b> sjghskg0</b> (21H2)
-
-<h2>Program walk-through:</h2>
-
-<p align="center">
-Launch the utility: <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Select the disk:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Enter the number of passes: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Confirm your selection:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Wait for process to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Sanitization complete:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-
-<!--
- ```diff
-- text in red
-+ text in green
-! text in orange
-# text in gray
-@@ text in purple (and bold)@@
-```
---!>
+- <b>NumPy</b>
+- <b>Matplotlib</b>
+- <b>Scikit Learn</b>
+- <b>Seaborn</b>
