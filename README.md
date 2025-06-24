@@ -20,7 +20,7 @@ This is a compilation of the codes I produced and submitted as part of my junior
 
 - [<b>Gaussian Discriminant Analysis</b>](https://github.com/andreazialcita/Probabilistic-Machine-Learning/blob/main/%5BMATH_104_1%5D_Linear_and_Quadratic_Discriminant_Analysis.ipynb)
 
-- <b>Support Vector Machines</b>
+- [<b>Support Vector Machines</b>](https://github.com/andreazialcita/Probabilistic-Machine-Learning/blob/main/%5BMATH_104_1%5D_Support_Vector_Machine.ipynb)
 
 <h2>Languages Used</h2>
 - <b> Python</b>
