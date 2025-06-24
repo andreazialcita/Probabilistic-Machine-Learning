@@ -28,6 +28,7 @@ This is a compilation of the codes I produced and submitted as part of my junior
 <h2>Libraries Used </h2>
 
 - <b>NumPy</b>
+- <b>Pandas</b>
 - <b>Matplotlib</b>
-- <b>Scikit Learn</b>
-- <b>Seaborn</b>
+- <b>scikit-learn</b>
+- <b>Scipy</b>
