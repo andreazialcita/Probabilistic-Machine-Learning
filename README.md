@@ -22,8 +22,8 @@ This is a compilation of the codes I produced and submitted as part of my junior
 
 - <b>Support Vector Machines</b>
 
-<h2>Tools Used</h2>
-- <b>Python</b> 
+<h2>Languages Used</h2>
+- <b>Python </b> 
 
 <h2>Libraries Used </h2>
 
