@@ -8,7 +8,7 @@ This is a compilation of the codes I produced and submitted as part of my junior
 
 <h2>Concepts Learned</h2>
 
-- <b>Linear Regression </b> (Least Squares Estimate and Maximum Likelihood Estimate)
+- [<b>Linear Regression </b>](https://github.com/andreazialcita/Probabilistic-Machine-Learning/blob/main/%5BMATH%20104.1%5D%20Linear%20Regression.ipynb) (Least Squares Estimate and Maximum Likelihood Estimate)
 
 - <b>Regularization</b> (Ridge and Lasso)
 
